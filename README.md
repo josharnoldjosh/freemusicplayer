@@ -38,8 +38,9 @@ In addition, The Bay also has built in support for ads using AdMob in three easy
 ![](https://i.imgur.com/QHWxBNS.png)
 
 3. Go to 'Global.swift' and set the `ad_offset_constant` to `50` like so:
-`var ad_offset_constant:CGFloat! = 0 // change this to zero if hiding ads, 50 if showing ads
-`
+
+![](https://i.imgur.com/ZzZHEFS.png)
+
 Boom! Ads should be showing :)
 
 
