@@ -1,0 +1,54 @@
+PODS:
+  - AudioPlayerSwift (1.5.1)
+  - Google-Mobile-Ads-SDK (7.20.0)
+  - MarqueeLabel/Swift (3.1.0)
+  - NAKPlaybackIndicatorView (0.0.3)
+  - PKHUD (4.2.2)
+  - pop (1.0.9)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SwipeCellKit (1.8.0)
+  - TWRDownloadManager (1.1.1)
+  - XCDYouTubeKit (2.5.5)
+  - youtube-ios-player-helper (0.1.6)
+
+DEPENDENCIES:
+  - AudioPlayerSwift
+  - Google-Mobile-Ads-SDK
+  - MarqueeLabel/Swift
+  - NAKPlaybackIndicatorView
+  - PKHUD (~> 4.0)
+  - pop (~> 1.0)
+  - SDWebImage (~> 3.8)
+  - SwipeCellKit (from `https://github.com/jerkoch/SwipeCellKit.git`, branch `develop`)
+  - TWRDownloadManager
+  - XCDYouTubeKit
+  - youtube-ios-player-helper (~> 0.1.4)
+
+EXTERNAL SOURCES:
+  SwipeCellKit:
+    :branch: develop
+    :git: https://github.com/jerkoch/SwipeCellKit.git
+
+CHECKOUT OPTIONS:
+  SwipeCellKit:
+    :commit: 73ff931fb2cf543b5511648f437e9a79ec4b4ae5
+    :git: https://github.com/jerkoch/SwipeCellKit.git
+
+SPEC CHECKSUMS:
+  AudioPlayerSwift: 042b801cc88c3ed2ab01ca14ec75eb0cc47f7f14
+  Google-Mobile-Ads-SDK: 168312cdc167fa22746d4ea8e839fc4825dd2966
+  MarqueeLabel: 061d04687ee5485ac035b45c8e292274a87afe01
+  NAKPlaybackIndicatorView: 794dd97576fe074bb1844c19ebcbf7509384a47f
+  PKHUD: 9a3599e04d57676ec14746c40e423a52fb6588c0
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SwipeCellKit: 048e2035809b7a4bc71b86bcb76c7b85d28d6620
+  TWRDownloadManager: 34193d7d1ab6e6b4243d74fa4f686cc2ed5ef40f
+  XCDYouTubeKit: 86f4e7a9c2baa7b7adf6abfc28ac3ab34927be2d
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+
+PODFILE CHECKSUM: 4e18b334f84bb8b6ffd645557854e796b18f881d
+
+COCOAPODS: 1.1.1
