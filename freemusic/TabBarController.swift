@@ -30,9 +30,10 @@ class TabBarController: UITabBarController {
         bannerView = GADBannerView(adSize: kGADAdSizeSmartBannerPortrait)
         bannerView.frame.origin = CGPoint(x: 0, y: 0)
         bannerView.backgroundColor = UIColor.primary
-        bannerView.adUnitID = ""
+        bannerView.adUnitID = "" // replace me with your admob adunitID
         bannerView.rootViewController = self
         
+        /* Uncomment below to show ads. Check Github Readme.md for more details. */
 //        let request = GADRequest()
 //        bannerView.load(request)
 //        musicPlayerView.addSubview(bannerView)
