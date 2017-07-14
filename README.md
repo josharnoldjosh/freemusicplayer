@@ -24,6 +24,25 @@ This project is against [YouTubes terms and service](https://www.youtube.com/sta
 
 ![](https://i.imgur.com/M22oavY.png)
 
+## Customization
+The Bay was also built with support for customization in mind. Navigate to the 'Global.swift' file and you will see some values you can tweak:
+
+![](https://i.imgur.com/9jvPAgg.png)
+
+In addition, The Bay also has built in support for ads using AdMob in three easy steps. 
+
+1. [Sign up for AdMob](https://www.google.com/admob/) and retrieve your [Ad Unit ID](https://support.google.com/admob/answer/3016009?hl=en).
+
+2. Navigate to 'TabBarController.swift' and in the `viewDidLoad` function replace your `adUnitID` parameter for the `bannerView` and uncomment these three lines of code.
+
+![](https://i.imgur.com/QHWxBNS.png)
+
+3. Go to 'Global.swift' and set the `ad_offset_constant` to `50` like so:
+`var ad_offset_constant:CGFloat! = 0 // change this to zero if hiding ads, 50 if showing ads
+`
+Boom! Ads should be showing :)
+
+
 ### Note
 
 The Bay is not a finished project. There are may be bugs and I do not intend to fix them anytime soon. Thank you for understanding. 
