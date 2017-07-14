@@ -14,7 +14,7 @@ The Bay comes with a few cool features.
 ![](https://i.imgur.com/0yLgYwN.jpg)
 
 ## WARNING
-This project is against [YouTubes terms and service](https://www.youtube.com/statc?template=terms). It is purely for educational purposes only. Use at your own risk. 
+This project is against [YouTubes terms and service](https://developers.google.com/youtube/terms/api-services-terms-of-service). It is purely for educational purposes only. Use at your own risk. 
 
 ## Installtion 
 
