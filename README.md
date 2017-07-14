@@ -2,6 +2,16 @@
 The Bay is a free music player for iOS that uses YouTube as a backend. 
 
 ## Features
+The Bay comes with a few cool features. 
+
+* Search for songs
+* One swipe to add songs to playlists
+* Download videos for offline play 
+* Music player controls to play, pause and shuffle 
+* Play songs in the background
+* Song artwork
+
+![](https://i.imgur.com/0yLgYwN.jpg)
 
 ## WARNING
 This project is against [YouTubes terms and service](https://www.youtube.com/statc?template=terms). It is purely for educational purposes only. Use at your own risk. 
@@ -14,8 +24,8 @@ This project is against [YouTubes terms and service](https://www.youtube.com/sta
 
 ![](https://i.imgur.com/M22oavY.png)
 
+### Note
 
-
-
+The Bay is not a finished project. There are may be bugs and I do not intend to fix them anytime soon. Thank you for understanding. 
 
 
