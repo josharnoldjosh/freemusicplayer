@@ -12,7 +12,7 @@ https://www.youtube.com/static?template=terms
 ## Installtion 
 
 1. Download or clone the project. 
-2. Obtain your YouTube API Key. ![alt text](http://url/to/img.png) for more details. https://www.youtube.com/watch?v=Im69kzhpR3I
+2. Obtain your YouTube API Key. ![See here](https://www.youtube.com/watch?v=Im69kzhpR3I) for more details. 
 3. Open the Xcode project and navigate to the 'YouTubeAPI.swift' file. Replace the 'apiKey' constant with your api key in the search function. 
 
 
