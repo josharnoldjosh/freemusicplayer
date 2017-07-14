@@ -30,12 +30,11 @@ class TabBarController: UITabBarController {
         bannerView = GADBannerView(adSize: kGADAdSizeSmartBannerPortrait)
         bannerView.frame.origin = CGPoint(x: 0, y: 0)
         bannerView.backgroundColor = UIColor.primary
-        bannerView.adUnitID = "ca-app-pub-4325909828247369/1626599532"
+        bannerView.adUnitID = ""
         bannerView.rootViewController = self
         
 //        let request = GADRequest()
 //        bannerView.load(request)
-        
 //        musicPlayerView.addSubview(bannerView)
         
         hideMusicPlayer()
